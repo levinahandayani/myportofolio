@@ -1,0 +1,23 @@
+.jumbotron img{
+	width: 200px;
+	border: 4px solid #666;
+	border-radius: 170px;
+}
+
+hr{
+	width: 250px;
+	border-top: 3px solid #999;
+}
+
+section{
+	min-height: 600px;
+}
+
+.col-md-4,img{
+	width: 75%;
+	height: 90%;
+}
+
+.portfolio{
+	background: #eee;
+}
